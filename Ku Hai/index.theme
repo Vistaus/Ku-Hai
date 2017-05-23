@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Ku Hai
+Comment=A Haiku-like oomox-based theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=Ku Hai
+GtkTheme=Ku Hai
+IconTheme=oomox-Ku
+MetacityTheme=oomox-Ku
